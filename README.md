@@ -18,7 +18,9 @@ The Loan Default Prediction project involves creating a machine learning model t
 The dataset used in this project includes various borrower attributes, loan information, and payment history.
 
 <u>Applicant information:</u> Age, Income, Employment History
+<br>
 <u>Loan details:</u> Loan Amount, Interest Rate, Loan Term
+<be>
 <u>Payment history:</u> Previous Defaults
 <hr>
 
